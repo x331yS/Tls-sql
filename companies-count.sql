@@ -1,0 +1,1 @@
+SELECT COUNT(Company) AS NbCompanies FROM Customers
